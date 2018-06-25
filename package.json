@@ -1,0 +1,16 @@
+{
+  "name": "albumfotos",
+  "version": "1.0.0",
+  "description": "Trabalho de Arquitetura de Front End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Ordoni Vilas Boas",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1",
+    "lightbox2": "^2.10.0"
+  }
+}
