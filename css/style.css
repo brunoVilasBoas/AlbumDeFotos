@@ -92,4 +92,21 @@ ul.pagination li a.active {
 
 ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 
+/*--------- Formatação do Menu de Albuns ------------*/
 
+ol li{
+	padding:5px;
+}
+
+ol#links li a{
+	color: #ffff;
+}
+
+ol#albums li:hover{
+	background-color:#24292E;
+}
+
+ol#albums li a{
+	color: #ffff;
+	text-decoration:none;
+}
